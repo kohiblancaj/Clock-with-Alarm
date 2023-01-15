@@ -1,10 +1,10 @@
 # Clock-with-Alarm
-Clock with Alarm - HDL Project
+HDL Project
 
-Run in your terminal:
+Type the following on your terminal:
 
 (1) iverilog -o Testbench.vvp Testbench.v
 
-(2) vvp Testbench.vvp (to generate vcd file)
+(2) vvp Testbench.vvp 
 
-(3) gtkwave (find cvd file)
+(3) gtkwave 
